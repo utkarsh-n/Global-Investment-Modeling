@@ -1,6 +1,6 @@
 # Global-Investment-Modeling
 
-#### Introduction:\
+#### Introduction:
 &nbsp; 
 <p>
 &nbsp; In this project, we will replicate and diagnose the findings of Appel and Loyle from their study on post-conflict justice and foreign direct investment. In the article titled*The economic benefits of justice: post-conflict justice (PCJ) and foreign direct investment (FDI)* the authors seek to explain if post-conflict states that implement post-conflict justice are more likely to receive foreign direct investments than those states which refrain from implementing justice institutions.
@@ -10,7 +10,7 @@
 </p>
 &nbsp; 
 
-#### Replication:\
+#### Replication:
 &nbsp; 
 <p>
 &nbsp; The authors argue that PCJs are in two categories: restorative and retributive. Restorative justice is the primary focus for this paper, as they serve as signals of stability. Since a PCJ is a costly signal both politically and financially, there is likely a high chance that the actors are acting in good faith. This Forms the basis of Appel and Loyle’s Hypothesis Ho: FDI is likely to be greater in a post-conflict state where there is a PCJ compared with a post- conflict state that lacks a similar justice institution. 
